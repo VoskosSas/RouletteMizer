@@ -14,4 +14,5 @@ It has many uses such as :
 I may update it in the future thinking of maybe adding a imagemizer mode where it cycles through photos instead and picks how many the user requests out of a folder. but thats in the future
 
 Anyway thanks for reading thus far. You can find instructions as how exactly it works (it's rocket science so pay attention it has 2 buttons).
+
 Love you Voskos.
