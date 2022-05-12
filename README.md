@@ -2,7 +2,7 @@ RoulleteMizer.
 
 Hello everyone that looks into using this program (I legit don't know why would you do that).
 
-in an attempt to learn how to code I made this program which searchings through a selected directory for any .exe , .lnk or .url  for the time being and starts one of them randomly.
+In an attempt to learn how to code I made this program which searchings through a selected directory for any .exe , .lnk or .url  for the time being and starts one of them randomly.
 
 It has many uses such as :
 1) Deciding what game you will play if you can't decide for yourself
